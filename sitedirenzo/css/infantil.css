@@ -1,0 +1,559 @@
+body {
+    background-color: #E6E6FA;
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+.container {
+    margin: 0 auto;
+    width: 940px;
+}
+
+
+.fundocabecalhoimg{
+    width: 100%;
+    height:300px;
+
+}
+
+
+.logo img {
+    margin-top: -40px;
+
+    margin-left: 250px;
+    opacity: 0.9;
+
+
+}
+.logo :hover {
+    opacity: 1;
+}
+
+
+
+.menu-opcoes { 
+    position: absolute;
+    margin-top: -300px;
+    height: 30px;
+    width: 100%;
+    background-color: #00008B;
+
+
+
+
+}
+
+.menu-opcoes ul {
+    margin-top: 5px;
+    margin-right: 150px;
+    
+    font-size: 15px;
+}
+
+.menu-opcoes ul li { 
+    display: inline;
+    margin-left: 20px;
+}
+
+.menu-opcoes a {
+    color: #ffffff;
+}
+
+
+
+
+.menu-opcoes a:hover {
+    
+    color:#FFA500;
+    }
+
+.menu-drop{
+    position: absolute;
+
+    margin-top:-69px;
+}
+
+
+#botao1 a{
+
+    border-radius: 10px;
+    text-decoration: none;
+    color: #696969;
+    font-size: 15px;
+   padding: 5px;
+    position: absolute;
+    margin-top: -40px;
+    margin-left: 300px;
+    width: 190px;
+    height: 30px;
+    background-color: #fff;
+}
+
+#botao1  :hover{
+    background-color: #8DB6CD;
+}
+
+#botao2 a{
+    border-radius: 10px;
+    text-decoration: none;
+    color: #696969;
+    font-size: 15px;
+   padding: 5px;
+    position: absolute;
+    margin-top: -10px;
+    margin-left: 300px;
+    width: 190px;
+    height: 30px;
+    background-color: #fff;
+}
+
+#botao2  :hover{
+    background-color: #8DB6CD;
+}
+
+
+#botao3 a{
+    border-radius: 10px;
+    text-decoration: none;
+    color: #696969;
+    font-size: 15px;
+    padding: 5px;
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 300px;
+   width: 190px;
+    height: 30px;
+    background-color: #fff;
+}
+
+#botao3 :hover{
+    background-color: #8DB6CD;
+}
+
+#botao4 a{
+    border-radius: 10px;
+    text-decoration: none;
+    color: #696969;
+    font-size: 15px;
+    padding: 5px;
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 300px;
+   width: 190px;
+    height: 30px;
+    background-color: #fff;
+}
+
+#botao4 :hover{
+    background-color: #8DB6CD;
+}
+#botao5 a{
+    border-radius: 10px;
+    text-decoration: none;
+    color: #696969;
+    font-size: 15px;
+    padding: 5px;
+    position: absolute;
+    margin-top: 80px;
+    margin-left: 300px;
+   width: 190px;
+    height: 30px;
+    background-color: #fff;
+}
+
+#botao5 :hover{
+    background-color: #8DB6CD;
+}
+
+
+#botao6 a{
+    border-radius: 10px;
+    text-decoration: none;
+    color: #696969;
+    font-size: 15px;
+    padding: 5px;
+    position: absolute;
+    margin-top: 110px;
+    margin-left: 300px;
+   width: 190px;
+    height: 30px;
+    background-color: #fff;
+}
+
+#botao6 :hover{
+    background-color: #8DB6CD;
+}
+
+
+#botao7 a{
+    border-radius: 10px;
+    text-decoration: none;
+    color: #696969;
+    font-size: 15px;
+    padding: 5px;
+    position: absolute;
+    margin-top: 140px;
+    margin-left: 300px;
+   width: 190px;
+    height: 30px;
+    background-color: #fff;
+}
+
+#botao7 :hover{
+    background-color: #8DB6CD;
+}
+
+#botao8 a{
+    border-radius: 10px;
+    text-decoration: none;
+    color: #696969;
+    font-size: 15px;
+    padding: 5px;
+    position: absolute;
+    margin-top: 170px;
+    margin-left: 300px;
+   width: 190px;
+    height: 30px;
+    background-color: #fff;
+}
+
+#botao8 :hover{
+    background-color: #8DB6CD;
+}
+
+
+#botao9 a{
+    border-radius: 10px;
+    text-decoration: none;
+    color: #696969;
+    font-size: 15px;
+    padding: 5px;
+    position: absolute;
+    margin-top: 200px;
+    margin-left: 300px;
+   width: 190px;
+    height: 30px;
+    background-color: #fff;
+}
+
+#botao9 :hover{
+    background-color: #8DB6CD;
+}
+
+
+#botao10 a{
+    border-radius: 10px;
+    text-decoration: none;
+    color: #696969;
+    font-size: 15px;
+    padding: 5px;
+    position: absolute;
+    margin-top: 230px;
+    margin-left: 300px;
+   width: 190px;
+    height: 30px;
+    background-color: #fff;
+}
+
+#botao10 :hover{
+    background-color: #8DB6CD;
+}
+
+
+#botao11 a{
+    border-radius: 10px;
+    text-decoration: none;
+    color: #696969;
+    font-size: 15px;
+    padding: 5px;
+    position: absolute;
+    margin-top: 260px;
+    margin-left: 300px;
+   width: 190px;
+    height: 30px;
+    background-color: #fff;
+}
+
+#botao11 :hover{
+    background-color: #8DB6CD;
+}
+
+
+#botao12 a{
+    border-radius: 10px;
+    text-decoration: none;
+    color: #696969;
+    font-size: 15px;
+    padding: 5px;
+    position: absolute;
+    margin-top: 290px;
+    margin-left: 300px;
+   width: 190px;
+    height: 30px;
+    background-color: #fff;
+}
+
+#botao12 :hover{
+    background-color: #8DB6CD;
+}
+
+
+
+
+.menu{
+    position: absolute;
+    margin-left: 320px;
+    margin-top: -90px;
+    height: 30px;
+    width: 150px;
+
+}
+
+
+.menu ul {
+    margin-top: 5px;
+    
+    font-size: 15px;
+}
+
+
+.menu ul li { 
+display: inline;
+    margin-left: 20px;
+}
+
+.menu a {
+    margin-left: 40px;
+    color: #00688B;
+}
+
+.menu a:hover {
+    background:#ffffff; 
+    color:#4682B4;
+    }
+
+
+
+
+.busca {
+    opacity: 1.2;
+    border-radius: 10px;
+    margin-top: -250px;
+    margin-left: 930px;
+    position: absolute;
+    background-color: #00008B;
+    font-weight: bold;
+    text-transform: uppercase;  
+    width: 230px;
+}
+
+
+.busca :hover{
+
+
+opacity: 0.9;
+
+
+}
+
+
+.contato{
+    color: #00688B;
+    font-size: 30px;
+    margin-right: -80px;
+    margin-top: 100px;
+
+
+}
+
+
+
+
+
+
+.busca h2,
+.busca form{
+    margin: 10px;
+}
+
+
+
+.busca input {
+    vertical-align: middle;
+}
+
+.busca input[type=search] {
+    width: 170px;
+}
+
+
+
+
+
+
+
+
+
+.menu-departamentos{
+    padding: 20px;
+    height: 80%;
+    width: 9%;
+    background-color: #ccc;
+    float: left;
+    position: absolute;
+
+}
+
+
+
+.destaque #linhaInfantil {
+    border-radius: 25px;
+    color: #CD3333;
+    padding: 20px;
+    font-size: 50px;
+    text-align: center;
+    margin-right: 0px;
+    background-color: #fff;
+    margin-top: -109px;
+    width: 85%;
+    height: 100px;
+    float: right;
+}
+
+
+
+.painel {
+    border-radius: 10px;
+    margin-top:-10px; 
+    padding: 10px;
+    width: 445px;
+}
+
+.novidades {
+    float: left;
+    background-color: #4682B4;
+}
+
+.mais-vendidos {
+    width: 78%;
+    float: right;
+    background-color: #4682B4;
+
+}
+
+
+.itens-painel {
+
+margin-left: 45px;
+
+}
+
+
+ a {
+    color: #fff;
+}
+
+
+
+footer {
+    background-color: #191970;
+    clear: both;
+    padding: 20px 0;
+    background-size: 100%, 100px;
+}
+
+footer .container {
+    position: relative;
+}
+
+
+.catalogo{
+
+    margin-left: 190px;
+    color: #ffffff;
+    font-size: 12px;
+
+}
+
+
+.catalogo a {
+
+    color: #ffffff;
+
+}
+
+
+.catalogo a:hover {
+
+    color: #ccc;
+
+}
+
+
+
+
+.social {
+    position: absolute;
+    top: 12px;
+    right: 0;
+}
+
+.social li {
+    display: inline-block;
+    margin-left: 25px;
+}
+
+.social li a {
+    height: 32px;
+    width: 32px;
+
+    display: block;
+    text-indent: -99999px;  
+}
+
+.social a[href*="facebook"] {
+    background-image: url(../img/facebook.png);
+}
+
+.social a[href*="twitter"] {
+    background-image: url(../img/twitter.png);
+}
+
+.social a[href*="plus"] {
+    background-image: url(../img/googleplus.png);
+}
+
+.mais-vendidos {
+    background-color: #4682B4;
+    background: linear-gradient(#4682B4, #ffffff);
+
+}
+
+header{
+
+background-color: #CD3333;
+background-size: 100%;
+background-repeat: no-repeat;
+
+}
+
+legend{
+    font-size: 13px;
+    text-align: center;
+    color: #fff;
+    margin-top: 10px;
+}
+
+
+
+.logoRodape img {
+
+    opacity: 0.8;
+
+
+}
+
+
+.logoRodape :hover{
+
+    opacity: 1;
+}
